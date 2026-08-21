@@ -4,7 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ------
-TODO
+This package implements methods to treat the empirical spectral density (ESD) of a normalised graph Laplacian as a point in Wasserstein space, and a temporal graph as a curve in this space. It also implements geometric descriptors to analyze the geometry of graph spectral evolution over time.
 
 * Free software: MIT license
 * Documentation: TODO
